@@ -1,0 +1,3 @@
+# robots.txt for Calculator App
+User-agent: *
+Allow: /
